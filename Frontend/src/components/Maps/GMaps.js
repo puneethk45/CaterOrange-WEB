@@ -8,7 +8,7 @@
 //   lat: 17.441660, // Default center location
 //   lng: 78.386940,
 // };
-// const apiKey = 'AIzaSyDiEyNHzIRaWtyzDkR95XtLD1q5gUu1XC4'; // Replace with your API key
+
 // const GoogleMapComponent = () => {
 //   const [selectedPosition, setSelectedPosition] = useState(null);
 //   const [address, setAddress] = useState('');
